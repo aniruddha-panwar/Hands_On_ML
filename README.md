@@ -12,3 +12,5 @@ Part 1 of this book is all about ML, while Part 2 is about Neural Networks and D
 6. Chapter 6 - Decision Trees
 7. Chapter 7 - Ensemble Learning and Random Forests
 8. Chapter 8 - Dimensionality Reduction
+
+In Part 2, we explore Deep Learning using TensorFlow. 
