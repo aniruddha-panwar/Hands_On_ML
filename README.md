@@ -4,7 +4,7 @@ In this series, I am walking through the theoretical  and applied concepts of th
   
 Part 1 of this book is all about ML, while Part 2 is about Neural Networks and Deep Learning. In Part 1, I aim to get accustomed to-  
 
-1. [Chapter 1 - Machine Learning Fundamentals](https://github.com/aniruddha-panwar/Hands_On_ML/tree/master/Chapter%202%20-%20End-to-End%20Machine%20Learning%20Project)
+1. [Chapter 1 - Machine Learning Fundamentals](https://github.com/aniruddha-panwar/Hands_On_ML/tree/master/Chapter%201%20-%20Machine%20Learning%20Fundamentals)
 2. [Chapter 2 - End-to-End Machine Learning Project](https://github.com/aniruddha-panwar/Hands_On_ML/tree/master/Chapter%202%20-%20End-to-End%20Machine%20Learning%20Project)
 3. Chapter 3 - Classification
 4. Chapter 4 - Model Training
