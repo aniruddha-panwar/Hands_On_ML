@@ -1,6 +1,6 @@
 # Hands_On_ML  
   
-In this series, I am walking through the theoretical  and applied concepts of the book, **Hands-On Machine Learning with Scikit-Learn & TensorFlow** by Aurelien Geron. The choice in this book mainly resides in getting up and running with ML in Python with a more applied approach. I have put my ISLR project on pause as its more theory than application. That said, as and when I touch topics in this project, that need more theory, I'll be looking them up in the ISLR book.  
+In this series, I am walking through the theoretical  and applied concepts of the book, **Hands-On Machine Learning with Scikit-Learn & TensorFlow** by Aurelien Geron. The choice in this [book](http://shop.oreilly.com/product/0636920052289.do) mainly resides in getting up and running with ML in Python with a more applied approach. I have put my ISLR project on pause as its more theory than application. That said, as and when I touch topics in this project, that need more theory, I'll be looking them up in the ISLR book.  
   
 Part 1 of this book is all about ML, while Part 2 is about Neural Networks and Deep Learning. In Part 1, I aim to get accustomed to-  
 
